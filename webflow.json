@@ -3,7 +3,7 @@
     "framework": {
       "type": "nextjs",
       "config": {
-        "version": "15",
+        "version": "15.0.0",
         "basePath": "/apppmm",
         "assetPrefix": "/apppmm"
       }
