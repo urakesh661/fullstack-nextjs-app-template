@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "provider": "github",
+    "owner": "urakesh661",
+    "repo": "fullstack-nextjs-app-template",
+    "branch": "main"
+  },
+  "build": {
+    "install_command": "npm install",
+    "build_command": "npm run build",
+    "output_directory": "out"
+  },
+  "dev": {
+    "command": "npm run dev",
+    "port": 3000
+  },
+  "framework": {
+    "type": "nextjs",
+    "version": "latest"
+  }
+}
