@@ -1,7 +1,12 @@
 {
   "cosmic": {
     "framework": {
-      "type": "nextjs"
+      "type": "nextjs",
+      "config": {
+        "version": "15",
+        "basePath": "/apppmm",
+        "assetPrefix": "/apppmm"
+      }
     },
     "build": {
       "install_command": "npm install",
